@@ -17,38 +17,7 @@
                         <?php 
                             hienThiSlide();
                         ?>
-                        <!-- single slider item start -->
-                        <div class="hero-slider-item stlder-style_2">
-                            <div class="d-flex align-items-center bg-img h-100" data-bg="assets/img/slider/home2-slide1.jpg">
-                                <div class="row">
-                                    <div class="col-lg-12">
-                                        <div class="hero-slider-content hero-slider-content_2">
-                                            <h2>biggest</h2>
-                                            <h1>sale <br>75% off</h1>
-                                            <h3>tool storage</h3>
-                                            <a href="shop.html" class="btn-hero">shop now</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- single slider item end -->
-
-                        <!-- single slider item start -->
-                        <div class="hero-slider-item stlder-style_2">
-                            <div class="d-flex align-items-center bg-img h-100" data-bg="assets/img/slider/home2-slide2.jpg">
-                                <div class="row">
-                                    <div class="col-lg-12">
-                                        <div class="hero-slider-content hero-slider-content_2">
-                                            <h2>free impact <br>driver</h2>
-                                            <h1>with select <br> drywall kits</h1>
-                                            <a href="shop.html" class="btn-hero">shop now</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- single slider item start -->
+                        
                     </div>
                 </section>
             </div>
