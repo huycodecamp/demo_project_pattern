@@ -3,8 +3,8 @@
         array(
             'id' => 1,
             'code' => 'slide1',
-            'title1' => 'Mua hàng online',
-            'title2' => 'Dễ dàng và thuận tiện',
+            'title1' => 'Trường học thân thiện',
+            'title2' => 'Học sinh tích cực',
             'image' => 'https://ngs.edu.vn/wp-content/uploads/2022/06/header-scaled.jpg',
             'position' => 1,
             'slug' => 'mua-hang-online',
@@ -96,7 +96,7 @@
         )
     );
 
-    $schools = getProductListInCategory(1);
+    // $schools = getProductListInCategory(1);
 
     function hienThiSlideSanPham(){
         global $schools;
